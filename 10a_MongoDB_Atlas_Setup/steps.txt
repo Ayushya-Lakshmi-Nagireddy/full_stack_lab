@@ -1,0 +1,16 @@
+Aim: Install MongoDB and configure MongoDB Atlas for storing and managing data.
+
+MongoDB is a NoSQL database that stores data as documents.
+MongoDB Atlas is a cloud-based service to create and manage MongoDB databases online.
+
+Steps:
+1. Download and install MongoDB Community Server.
+2. Install MongoDB Compass (graphical interface).
+3. Create an account in MongoDB Atlas.
+4. Create a new cluster.
+5. Create a database user with username and password.
+6. Add your IP address in Network Access.
+7. Copy the connection string.
+8. Connect to the Atlas cluster using MongoDB Compass or a Node.js application.
+
+Output: MongoDB Connected successfully
